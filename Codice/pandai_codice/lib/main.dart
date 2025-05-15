@@ -1,4 +1,5 @@
 /// main.dart
+library;
 import 'package:flutter/material.dart';
 import 'package:pandai_codice/pages/pagina_caricamento.dart';
 import 'package:pandai_codice/pages/pagina_login.dart';
